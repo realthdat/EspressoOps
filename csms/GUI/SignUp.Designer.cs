@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(SignUp));
             btnRegister = new Button();
             ckbShowPass = new CheckBox();
             tbPass = new TextBox();
@@ -192,7 +191,7 @@
             // pictureBox1
             // 
             pictureBox1.Dock = DockStyle.Left;
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.Image = Properties.Resources.AUBERT;
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(400, 513);

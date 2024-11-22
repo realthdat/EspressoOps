@@ -34,7 +34,6 @@
             button2 = new Button();
             btnDashboard = new Button();
             button1 = new Button();
-            pictureBox1 = new PictureBox();
             btnExit = new Button();
             label_username = new Label();
             Logout = new PictureBox();
@@ -43,9 +42,10 @@
             btnProduct = new Button();
             btnStaff = new Button();
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            pictureBox1 = new PictureBox();
             navbar.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)Logout).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
             // mainboard
@@ -55,17 +55,17 @@
             mainboard.Location = new Point(0, 74);
             mainboard.Margin = new Padding(3, 2, 3, 2);
             mainboard.Name = "mainboard";
-            mainboard.Size = new Size(964, 541);
+            mainboard.Size = new Size(964, 543);
             mainboard.TabIndex = 0;
             mainboard.Paint += mainboard_Paint;
             // 
             // navbar
             // 
             navbar.BackColor = Color.FromArgb(227, 225, 217);
+            navbar.Controls.Add(pictureBox1);
             navbar.Controls.Add(button2);
             navbar.Controls.Add(btnDashboard);
             navbar.Controls.Add(button1);
-            navbar.Controls.Add(pictureBox1);
             navbar.Controls.Add(btnExit);
             navbar.Controls.Add(label_username);
             navbar.Controls.Add(Logout);
@@ -112,17 +112,6 @@
             button1.UseVisualStyleBackColor = true;
             button1.Click += button1_Click;
             // 
-            // pictureBox1
-            // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(0, 2);
-            pictureBox1.Margin = new Padding(3, 2, 3, 2);
-            pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(167, 72);
-            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox1.TabIndex = 0;
-            pictureBox1.TabStop = false;
-            // 
             // btnExit
             // 
             btnExit.BackColor = Color.White;
@@ -140,7 +129,7 @@
             // 
             label_username.AutoSize = true;
             label_username.Font = new Font("Segoe UI", 13F);
-            label_username.Location = new Point(832, 21);
+            label_username.Location = new Point(826, 21);
             label_username.Name = "label_username";
             label_username.Size = new Size(59, 25);
             label_username.TabIndex = 0;
@@ -202,11 +191,22 @@
             btnStaff.UseVisualStyleBackColor = true;
             btnStaff.Click += btnStaff_Click;
             // 
+            // pictureBox1
+            // 
+            pictureBox1.Image = Properties.Resources.logo;
+            pictureBox1.Location = new Point(3, 2);
+            pictureBox1.Margin = new Padding(3, 2, 3, 2);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(162, 68);
+            pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox1.TabIndex = 7;
+            pictureBox1.TabStop = false;
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(964, 617);
+            ClientSize = new Size(964, 612);
             Controls.Add(mainboard);
             Controls.Add(navbar);
             FormBorderStyle = FormBorderStyle.None;
@@ -216,8 +216,8 @@
             Text = "MainForm";
             navbar.ResumeLayout(false);
             navbar.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ((System.ComponentModel.ISupportInitialize)Logout).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
@@ -225,7 +225,6 @@
 
         private Panel mainboard;
         private Panel navbar;
-        private PictureBox pictureBox1;
         private Button btnStaff;
         private Button btnDashboard;
         private Label label_username;
@@ -237,5 +236,6 @@
         private Button button1;
         private Button button2;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private PictureBox pictureBox1;
     }
 }

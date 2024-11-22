@@ -73,10 +73,10 @@
             // 
             // btnReceipt
             // 
-            btnReceipt.Location = new Point(297, 13);
+            btnReceipt.Location = new Point(314, 12);
             btnReceipt.Margin = new Padding(3, 2, 3, 2);
             btnReceipt.Name = "btnReceipt";
-            btnReceipt.Size = new Size(101, 38);
+            btnReceipt.Size = new Size(105, 42);
             btnReceipt.TabIndex = 5;
             btnReceipt.Text = "Receipt";
             btnReceipt.UseVisualStyleBackColor = true;
@@ -99,7 +99,7 @@
             // 
             label_username.AutoSize = true;
             label_username.Font = new Font("Segoe UI", 13F);
-            label_username.Location = new Point(810, 13);
+            label_username.Location = new Point(805, 13);
             label_username.Name = "label_username";
             label_username.Size = new Size(59, 25);
             label_username.TabIndex = 0;
@@ -132,10 +132,10 @@
             // 
             // btnOrder
             // 
-            btnOrder.Location = new Point(191, 13);
+            btnOrder.Location = new Point(195, 12);
             btnOrder.Margin = new Padding(3, 2, 3, 2);
             btnOrder.Name = "btnOrder";
-            btnOrder.Size = new Size(101, 38);
+            btnOrder.Size = new Size(105, 42);
             btnOrder.TabIndex = 4;
             btnOrder.Text = "Take order";
             btnOrder.UseVisualStyleBackColor = true;
@@ -143,10 +143,10 @@
             // 
             // btnMem
             // 
-            btnMem.Location = new Point(403, 13);
+            btnMem.Location = new Point(433, 12);
             btnMem.Margin = new Padding(3, 2, 3, 2);
             btnMem.Name = "btnMem";
-            btnMem.Size = new Size(101, 38);
+            btnMem.Size = new Size(105, 42);
             btnMem.TabIndex = 1;
             btnMem.Text = "Membership Customer";
             btnMem.UseVisualStyleBackColor = true;
@@ -154,11 +154,11 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(-17, 0);
+            pictureBox1.Image = Properties.Resources.logo;
+            pictureBox1.Location = new Point(3, 2);
             pictureBox1.Margin = new Padding(3, 2, 3, 2);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(194, 72);
+            pictureBox1.Size = new Size(170, 69);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;

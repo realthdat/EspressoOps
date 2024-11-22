@@ -65,3 +65,4 @@ D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Eng
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DTO\obj\Debug\net8.0\refint\DTO.dll
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DTO\obj\Debug\net8.0\DTO.pdb
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DTO\obj\Debug\net8.0\ref\DTO.dll
+D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DTO\obj\Debug\net8.0\DTO.sourcelink.json
