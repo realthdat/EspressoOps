@@ -86,7 +86,7 @@
             // 
             // btnClear
             // 
-            btnClear.Location = new Point(428, 187);
+            btnClear.Location = new Point(372, 187);
             btnClear.Margin = new Padding(3, 2, 3, 2);
             btnClear.Name = "btnClear";
             btnClear.Size = new Size(98, 38);
@@ -97,7 +97,7 @@
             // 
             // btnPDF
             // 
-            btnPDF.Location = new Point(567, 187);
+            btnPDF.Location = new Point(492, 187);
             btnPDF.Margin = new Padding(3, 2, 3, 2);
             btnPDF.Name = "btnPDF";
             btnPDF.Size = new Size(98, 38);
@@ -108,7 +108,7 @@
             // 
             // btnEdit
             // 
-            btnEdit.Location = new Point(151, 187);
+            btnEdit.Location = new Point(132, 187);
             btnEdit.Margin = new Padding(3, 2, 3, 2);
             btnEdit.Name = "btnEdit";
             btnEdit.Size = new Size(98, 38);
@@ -119,7 +119,7 @@
             // 
             // btnDel
             // 
-            btnDel.Location = new Point(289, 187);
+            btnDel.Location = new Point(252, 187);
             btnDel.Margin = new Padding(3, 2, 3, 2);
             btnDel.Name = "btnDel";
             btnDel.Size = new Size(98, 38);
@@ -191,103 +191,115 @@
             // label5
             // 
             label5.AutoSize = true;
+            label5.Font = new Font("Segoe UI", 10F);
             label5.Location = new Point(446, 64);
             label5.Name = "label5";
-            label5.Size = new Size(119, 15);
+            label5.Size = new Size(136, 19);
             label5.TabIndex = 29;
             label5.Text = "Accumutated money";
             // 
             // tbAccu
             // 
-            tbAccu.Location = new Point(446, 81);
+            tbAccu.Font = new Font("Segoe UI", 10F);
+            tbAccu.Location = new Point(446, 85);
             tbAccu.Margin = new Padding(3, 2, 3, 2);
             tbAccu.Name = "tbAccu";
-            tbAccu.Size = new Size(392, 23);
+            tbAccu.Size = new Size(392, 25);
             tbAccu.TabIndex = 28;
             // 
             // tbDiscount
             // 
-            tbDiscount.Location = new Point(699, 28);
+            tbDiscount.Font = new Font("Segoe UI", 10F);
+            tbDiscount.Location = new Point(699, 32);
             tbDiscount.Margin = new Padding(3, 2, 3, 2);
             tbDiscount.Name = "tbDiscount";
-            tbDiscount.Size = new Size(140, 23);
+            tbDiscount.Size = new Size(140, 25);
             tbDiscount.TabIndex = 26;
             // 
             // label4
             // 
             label4.AutoSize = true;
+            label4.Font = new Font("Segoe UI", 10F);
             label4.Location = new Point(699, 11);
             label4.Name = "label4";
-            label4.Size = new Size(54, 15);
+            label4.Size = new Size(63, 19);
             label4.TabIndex = 27;
             label4.Text = "Discount";
             // 
             // tbRank
             // 
-            tbRank.Location = new Point(446, 28);
+            tbRank.Font = new Font("Segoe UI", 10F);
+            tbRank.Location = new Point(445, 32);
             tbRank.Margin = new Padding(3, 2, 3, 2);
             tbRank.Name = "tbRank";
-            tbRank.Size = new Size(248, 23);
+            tbRank.Size = new Size(248, 25);
             tbRank.TabIndex = 24;
             // 
             // label3
             // 
             label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 10F);
             label3.Location = new Point(446, 11);
             label3.Name = "label3";
-            label3.Size = new Size(33, 15);
+            label3.Size = new Size(39, 19);
             label3.TabIndex = 25;
             label3.Text = "Rank";
             // 
             // label2
             // 
             label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 10F);
             label2.Location = new Point(16, 64);
             label2.Name = "label2";
-            label2.Size = new Size(86, 15);
+            label2.Size = new Size(100, 19);
             label2.TabIndex = 23;
             label2.Text = "Phone number";
             // 
             // tbPhonenumber
             // 
-            tbPhonenumber.Location = new Point(16, 81);
+            tbPhonenumber.Font = new Font("Segoe UI", 10F);
+            tbPhonenumber.Location = new Point(16, 85);
             tbPhonenumber.Margin = new Padding(3, 2, 3, 2);
             tbPhonenumber.Name = "tbPhonenumber";
-            tbPhonenumber.Size = new Size(385, 23);
+            tbPhonenumber.Size = new Size(385, 25);
             tbPhonenumber.TabIndex = 22;
             // 
             // label10
             // 
             label10.AutoSize = true;
+            label10.Font = new Font("Segoe UI", 10F);
             label10.Location = new Point(115, 11);
             label10.Name = "label10";
-            label10.Size = new Size(39, 15);
+            label10.Size = new Size(45, 19);
             label10.TabIndex = 21;
             label10.Text = "Name";
             // 
             // tbID
             // 
-            tbID.Location = new Point(16, 28);
+            tbID.Font = new Font("Segoe UI", 10F);
+            tbID.Location = new Point(16, 32);
             tbID.Margin = new Padding(3, 2, 3, 2);
             tbID.Name = "tbID";
-            tbID.Size = new Size(94, 23);
+            tbID.Size = new Size(94, 25);
             tbID.TabIndex = 18;
             // 
             // label9
             // 
             label9.AutoSize = true;
+            label9.Font = new Font("Segoe UI", 10F);
             label9.Location = new Point(16, 11);
             label9.Name = "label9";
-            label9.Size = new Size(18, 15);
+            label9.Size = new Size(23, 19);
             label9.TabIndex = 19;
             label9.Text = "ID";
             // 
             // tbName
             // 
-            tbName.Location = new Point(115, 28);
+            tbName.Font = new Font("Segoe UI", 10F);
+            tbName.Location = new Point(115, 32);
             tbName.Margin = new Padding(3, 2, 3, 2);
             tbName.Name = "tbName";
-            tbName.Size = new Size(286, 23);
+            tbName.Size = new Size(286, 25);
             tbName.TabIndex = 20;
             // 
             // membership

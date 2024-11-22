@@ -187,54 +187,60 @@
             // 
             // nPrice
             // 
-            nPrice.Location = new Point(316, 79);
+            nPrice.Font = new Font("Segoe UI", 10F);
+            nPrice.Location = new Point(315, 73);
             nPrice.Margin = new Padding(3, 2, 3, 2);
             nPrice.Name = "nPrice";
-            nPrice.Size = new Size(269, 23);
+            nPrice.Size = new Size(269, 25);
             nPrice.TabIndex = 42;
             // 
             // cbStatus
             // 
+            cbStatus.Font = new Font("Segoe UI", 10F);
             cbStatus.FormattingEnabled = true;
-            cbStatus.Location = new Point(316, 118);
+            cbStatus.Location = new Point(315, 126);
             cbStatus.Margin = new Padding(3, 2, 3, 2);
             cbStatus.Name = "cbStatus";
-            cbStatus.Size = new Size(269, 23);
+            cbStatus.Size = new Size(269, 25);
             cbStatus.TabIndex = 41;
             // 
             // nStock
             // 
+            nStock.Font = new Font("Segoe UI", 10F);
             nStock.ImeMode = ImeMode.NoControl;
-            nStock.Location = new Point(316, 34);
+            nStock.Location = new Point(316, 20);
             nStock.Margin = new Padding(3, 2, 3, 2);
             nStock.Name = "nStock";
-            nStock.Size = new Size(269, 23);
+            nStock.Size = new Size(269, 25);
             nStock.TabIndex = 39;
             // 
             // cbType
             // 
+            cbType.Font = new Font("Segoe UI", 10F);
             cbType.FormattingEnabled = true;
-            cbType.Location = new Point(22, 118);
+            cbType.Location = new Point(21, 126);
             cbType.Margin = new Padding(3, 2, 3, 2);
             cbType.Name = "cbType";
-            cbType.Size = new Size(269, 23);
+            cbType.Size = new Size(269, 25);
             cbType.TabIndex = 38;
             // 
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(316, 101);
+            label7.Font = new Font("Segoe UI", 10F);
+            label7.Location = new Point(315, 109);
             label7.Name = "label7";
-            label7.Size = new Size(39, 15);
+            label7.Size = new Size(47, 19);
             label7.TabIndex = 37;
             label7.Text = "Status";
             // 
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(315, 60);
+            label6.Font = new Font("Segoe UI", 10F);
+            label6.Location = new Point(314, 54);
             label6.Name = "label6";
-            label6.Size = new Size(33, 15);
+            label6.Size = new Size(38, 19);
             label6.TabIndex = 35;
             label6.Text = "Price";
             label6.Click += label6_Click;
@@ -242,63 +248,69 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(316, 16);
+            label5.Font = new Font("Segoe UI", 10F);
+            label5.Location = new Point(316, 2);
             label5.Name = "label5";
-            label5.Size = new Size(36, 15);
+            label5.Size = new Size(42, 19);
             label5.TabIndex = 33;
             label5.Text = "Stock";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(22, 101);
+            label4.Font = new Font("Segoe UI", 10F);
+            label4.Location = new Point(21, 109);
             label4.Name = "label4";
-            label4.Size = new Size(31, 15);
+            label4.Size = new Size(37, 19);
             label4.TabIndex = 31;
             label4.Text = "Type";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(22, 60);
+            label3.Font = new Font("Segoe UI", 10F);
+            label3.Location = new Point(21, 54);
             label3.Name = "label3";
-            label3.Size = new Size(82, 15);
+            label3.Size = new Size(95, 19);
             label3.TabIndex = 29;
             label3.Text = "Product name";
             // 
             // tbProdName
             // 
-            tbProdName.Location = new Point(22, 77);
+            tbProdName.Font = new Font("Segoe UI", 10F);
+            tbProdName.Location = new Point(21, 71);
             tbProdName.Margin = new Padding(3, 2, 3, 2);
             tbProdName.Name = "tbProdName";
-            tbProdName.Size = new Size(269, 23);
+            tbProdName.Size = new Size(269, 25);
             tbProdName.TabIndex = 28;
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(22, 16);
+            label2.Font = new Font("Segoe UI", 10F);
+            label2.Location = new Point(22, 2);
             label2.Name = "label2";
-            label2.Size = new Size(63, 15);
+            label2.Size = new Size(75, 19);
             label2.TabIndex = 27;
             label2.Text = "Product ID";
             // 
             // tbProdID
             // 
-            tbProdID.Location = new Point(22, 34);
+            tbProdID.Font = new Font("Segoe UI", 10F);
+            tbProdID.Location = new Point(22, 20);
             tbProdID.Margin = new Padding(3, 2, 3, 2);
             tbProdID.Name = "tbProdID";
-            tbProdID.Size = new Size(269, 23);
+            tbProdID.Size = new Size(269, 25);
             tbProdID.TabIndex = 26;
             // 
             // ProdIMG
             // 
             ProdIMG.BackColor = Color.White;
             ProdIMG.InitialImage = (Image)resources.GetObject("ProdIMG.InitialImage");
-            ProdIMG.Location = new Point(665, 16);
+            ProdIMG.Location = new Point(664, 16);
             ProdIMG.Margin = new Padding(3, 2, 3, 2);
             ProdIMG.Name = "ProdIMG";
-            ProdIMG.Size = new Size(221, 126);
+            ProdIMG.Size = new Size(218, 135);
             ProdIMG.SizeMode = PictureBoxSizeMode.StretchImage;
             ProdIMG.TabIndex = 17;
             ProdIMG.TabStop = false;

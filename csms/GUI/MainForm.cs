@@ -30,7 +30,19 @@ namespace GUI
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            // Hiển thị hộp thoại xác nhận
+            DialogResult result = MessageBox.Show(
+                "Are you sure you want to exit the application?",
+                "Exit Confirmation",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+
+            // Xử lý kết quả
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void ShowFormInPanel(Form formToShow)

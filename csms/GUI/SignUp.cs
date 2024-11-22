@@ -15,11 +15,13 @@ namespace GUI
     public partial class SignUp : Form
     {
 
-
-
         public SignUp()
         {
             InitializeComponent();
+
+            tbPass.UseSystemPasswordChar = true;
+            tbCP.UseSystemPasswordChar = true;
+            
         }
 
         private void btnSignIn_Click(object sender, EventArgs e)
@@ -31,13 +33,25 @@ namespace GUI
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            // Hiển thị hộp thoại xác nhận
+            DialogResult result = MessageBox.Show(
+                "Are you sure you want to exit the application?",
+                "Exit Confirmation",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+
+            // Xử lý kết quả
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void ckbShowPass_CheckedChanged(object sender, EventArgs e)
         {
-            tbPass.PasswordChar = ckbShowPass.Checked ? '\0' : '*';
-            tbCP.PasswordChar = ckbShowPass.Checked ? '\0' : '*';
+            tbPass.UseSystemPasswordChar = !ckbShowPass.Checked;
+            tbCP.UseSystemPasswordChar = !ckbShowPass.Checked;
         }
         public bool emptyFields()
         {

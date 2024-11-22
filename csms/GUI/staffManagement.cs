@@ -22,6 +22,8 @@ namespace GUI
         public staffManagement()
         {
             InitializeComponent();
+
+            tbPassword.UseSystemPasswordChar = true;
         }
 
         private int dk = 0;
@@ -87,6 +89,10 @@ namespace GUI
                 img = b.getImagePath(userIMG.ImageLocation, username.Trim());
 
             }
+            else
+            {
+                img = "..\\..\\..\\..\\User_Directory\\.png";
+            }
 
             if (isEmpty())
             {
@@ -96,8 +102,6 @@ namespace GUI
             {
                 if (dk == 1)
                 {
-
-
                     //add staff to database
                     BUS_STAFF addStaff = new BUS_STAFF(staffid, fullname, role, DOB, gender, phonenumber, img);
                     addStaff.addQuery();
@@ -189,8 +193,9 @@ namespace GUI
             cbRole.Items.Add("Manager"); //0
             cbRole.Items.Add("Cashier"); //1
             cbRole.Items.Add("Waiter"); //2
-            cbRole.Items.Add("Securiry"); //3
-            cbRole.Items.Add("Bartender"); //4
+            cbRole.Items.Add("Waitress"); //3
+            cbRole.Items.Add("Securiry"); //4
+            cbRole.Items.Add("Bartender"); //5
 
 
             //gender

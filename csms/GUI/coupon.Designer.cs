@@ -105,19 +105,21 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(766, 99);
+            label6.Font = new Font("Segoe UI", 10F);
+            label6.Location = new Point(763, 99);
             label6.Name = "label6";
-            label6.Size = new Size(31, 15);
+            label6.Size = new Size(37, 19);
             label6.TabIndex = 27;
             label6.Text = "Type";
             // 
             // SearchCbType
             // 
+            SearchCbType.Font = new Font("Segoe UI", 10F);
             SearchCbType.FormattingEnabled = true;
             SearchCbType.Location = new Point(806, 96);
             SearchCbType.Margin = new Padding(3, 2, 3, 2);
             SearchCbType.Name = "SearchCbType";
-            SearchCbType.Size = new Size(124, 23);
+            SearchCbType.Size = new Size(124, 25);
             SearchCbType.TabIndex = 0;
             SearchCbType.SelectedIndexChanged += SearchCbType_SelectedIndexChanged;
             // 
@@ -147,7 +149,7 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Microsoft Sans Serif", 13.8F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(27, 230);
+            label2.Location = new Point(26, 235);
             label2.Name = "label2";
             label2.Size = new Size(87, 24);
             label2.TabIndex = 31;
@@ -165,7 +167,7 @@
             // 
             // btnEdit
             // 
-            btnEdit.Location = new Point(120, 177);
+            btnEdit.Location = new Point(121, 188);
             btnEdit.Margin = new Padding(3, 2, 3, 2);
             btnEdit.Name = "btnEdit";
             btnEdit.Size = new Size(82, 36);
@@ -176,7 +178,7 @@
             // 
             // btnDel
             // 
-            btnDel.Location = new Point(211, 177);
+            btnDel.Location = new Point(212, 188);
             btnDel.Margin = new Padding(3, 2, 3, 2);
             btnDel.Name = "btnDel";
             btnDel.Size = new Size(82, 36);
@@ -187,7 +189,7 @@
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(30, 177);
+            btnAdd.Location = new Point(31, 188);
             btnAdd.Margin = new Padding(3, 2, 3, 2);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(82, 36);
@@ -201,7 +203,7 @@
             btnSave.BackColor = Color.FromArgb(126, 99, 99);
             btnSave.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnSave.ForeColor = Color.Transparent;
-            btnSave.Location = new Point(382, 177);
+            btnSave.Location = new Point(383, 188);
             btnSave.Margin = new Padding(3, 2, 3, 2);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(82, 36);
@@ -223,59 +225,65 @@
             gb1.Margin = new Padding(3, 2, 3, 2);
             gb1.Name = "gb1";
             gb1.Padding = new Padding(3, 2, 3, 2);
-            gb1.Size = new Size(438, 94);
+            gb1.Size = new Size(439, 104);
             gb1.TabIndex = 17;
             gb1.TabStop = false;
             // 
             // tbDiscount
             // 
-            tbDiscount.Location = new Point(5, 59);
+            tbDiscount.Font = new Font("Segoe UI", 10F);
+            tbDiscount.Location = new Point(9, 69);
             tbDiscount.Margin = new Padding(3, 2, 3, 2);
             tbDiscount.Name = "tbDiscount";
-            tbDiscount.Size = new Size(416, 23);
+            tbDiscount.Size = new Size(416, 25);
             tbDiscount.TabIndex = 24;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(5, 42);
+            label3.Font = new Font("Segoe UI", 10F);
+            label3.Location = new Point(8, 47);
             label3.Name = "label3";
-            label3.Size = new Size(116, 15);
+            label3.Size = new Size(135, 19);
             label3.TabIndex = 25;
             label3.Text = "Discount percentage";
             // 
             // label10
             // 
             label10.AutoSize = true;
-            label10.Location = new Point(115, 2);
+            label10.Font = new Font("Segoe UI", 10F);
+            label10.Location = new Point(130, -1);
             label10.Name = "label10";
-            label10.Size = new Size(82, 15);
+            label10.Size = new Size(95, 19);
             label10.TabIndex = 21;
             label10.Text = "Product name";
             // 
             // tbID
             // 
-            tbID.Location = new Point(5, 20);
+            tbID.Font = new Font("Segoe UI", 10F);
+            tbID.Location = new Point(8, 20);
             tbID.Margin = new Padding(3, 2, 3, 2);
             tbID.Name = "tbID";
-            tbID.Size = new Size(105, 23);
+            tbID.Size = new Size(116, 25);
             tbID.TabIndex = 18;
             // 
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new Point(5, 2);
+            label9.Font = new Font("Segoe UI", 10F);
+            label9.Location = new Point(9, -1);
             label9.Name = "label9";
-            label9.Size = new Size(64, 15);
+            label9.Size = new Size(76, 19);
             label9.TabIndex = 19;
             label9.Text = "Coupon ID";
             // 
             // tbName
             // 
-            tbName.Location = new Point(115, 20);
+            tbName.Font = new Font("Segoe UI", 10F);
+            tbName.Location = new Point(130, 20);
             tbName.Margin = new Padding(3, 2, 3, 2);
             tbName.Name = "tbName";
-            tbName.Size = new Size(307, 23);
+            tbName.Size = new Size(295, 25);
             tbName.TabIndex = 20;
             // 
             // fileSystemWatcher1

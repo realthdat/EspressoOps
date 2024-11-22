@@ -217,26 +217,42 @@ namespace GUI
 
         private void btnDel_Click(object sender, EventArgs e)
         {
-            BUS_product b = new BUS_product("", "", "", "0", "", "");
+            // Kiểm tra nếu thông tin cần xóa rỗng
+            if (string.IsNullOrEmpty(deleteProduct) || deleteQuantity <= 0 || string.IsNullOrEmpty(deletePrice))
+            {
+                MessageBox.Show("Please select a valid item to delete.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
 
-            string deleteID = b.getProdID_by_prodName(deleteProduct);
-            //MessageBox.Show(deleteProduct, "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            try
+            {
+                // Lấy prodID của sản phẩm cần xóa
+                BUS_product b = new BUS_product("", "", "", "0", "", "");
+                string deleteID = b.getProdID_by_prodName(deleteProduct);
 
-            BUS_order newOrder = new BUS_order(rid, "", deleteID, 0, "");
-            newOrder.deleteQuery();
+                // Thực hiện xóa sản phẩm trong đơn hàng
+                BUS_order newOrder = new BUS_order(rid, "", deleteID, 0, "");
+                newOrder.deleteQuery();
 
+                // Tính toán lại tổng tiền
+                float itemPrice = float.Parse(deletePrice, CultureInfo.InvariantCulture); // Chuyển đổi giá sang float
+                totalAmount -= itemPrice;
+                totalQuantity -= deleteQuantity;
 
-            totalAmount -= float.Parse(deletePrice.Replace(".", ","));
+                // Cập nhật giao diện
+                totalmoney.Text = $"${totalAmount.ToString("0.00", CultureInfo.InvariantCulture)}";
+                showGRD_order();
 
-            totalmoney.Text = "$" + totalAmount.ToString();
-
-            totalQuantity -= deleteQuantity;
-
-            showGRD_order();
-            deleteQuantity = 0;
-            deletePrice = "";
-            deleteProduct = "";
-            btnDel.Enabled = false;
+                // Reset các thông tin của sản phẩm bị xóa
+                deleteProduct = "";
+                deletePrice = "";
+                deleteQuantity = 0;
+                btnDel.Enabled = false;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"An error occurred while deleting the item: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void btnPDF_Click(object sender, EventArgs e)

@@ -89,3 +89,4 @@ D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Eng
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DAL\obj\Debug\net8.0\refint\DAL.dll
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DAL\obj\Debug\net8.0\DAL.pdb
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DAL\obj\Debug\net8.0\ref\DAL.dll
+D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\DAL\obj\Debug\net8.0\DAL.sourcelink.json

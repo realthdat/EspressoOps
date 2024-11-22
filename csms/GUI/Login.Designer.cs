@@ -47,10 +47,10 @@
             // btnExit
             // 
             btnExit.AutoSize = true;
-            btnExit.Font = new Font("Arial Rounded MT Bold", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnExit.Location = new Point(880, 12);
+            btnExit.Font = new Font("Microsoft Sans Serif", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnExit.Location = new Point(770, 9);
             btnExit.Name = "btnExit";
-            btnExit.Size = new Size(22, 23);
+            btnExit.Size = new Size(20, 20);
             btnExit.TabIndex = 1;
             btnExit.Text = "X";
             btnExit.Click += btnExit_Click;
@@ -58,64 +58,60 @@
             // lbLogin
             // 
             lbLogin.AutoSize = true;
-            lbLogin.Font = new Font("Arial Rounded MT Bold", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbLogin.Font = new Font("Microsoft Sans Serif", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbLogin.ForeColor = Color.FromArgb(126, 99, 99);
-            lbLogin.Location = new Point(503, 133);
+            lbLogin.Location = new Point(440, 110);
             lbLogin.Name = "lbLogin";
-            lbLogin.Size = new Size(105, 28);
+            lbLogin.Size = new Size(77, 24);
             lbLogin.TabIndex = 2;
             lbLogin.Text = "SIGN IN";
             // 
             // lbUser
             // 
             lbUser.AutoSize = true;
-            lbUser.Font = new Font("Arial Rounded MT Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbUser.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbUser.ForeColor = Color.FromArgb(126, 99, 99);
-            lbUser.Location = new Point(503, 201);
+            lbUser.Location = new Point(440, 177);
             lbUser.Name = "lbUser";
-            lbUser.Size = new Size(103, 22);
+            lbUser.Size = new Size(77, 18);
             lbUser.TabIndex = 3;
             lbUser.Text = "Username";
             // 
             // tbUser
             // 
             tbUser.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            tbUser.Location = new Point(503, 228);
-            tbUser.Margin = new Padding(3, 4, 3, 4);
+            tbUser.Location = new Point(440, 204);
             tbUser.Name = "tbUser";
-            tbUser.Size = new Size(371, 30);
+            tbUser.Size = new Size(294, 26);
             tbUser.TabIndex = 4;
             // 
             // tbPass
             // 
             tbPass.Font = new Font("Arial", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            tbPass.Location = new Point(503, 324);
-            tbPass.Margin = new Padding(3, 4, 3, 4);
+            tbPass.Location = new Point(440, 277);
             tbPass.Name = "tbPass";
-            tbPass.PasswordChar = '*';
-            tbPass.Size = new Size(371, 30);
+            tbPass.Size = new Size(294, 26);
             tbPass.TabIndex = 6;
             // 
             // lbPass
             // 
             lbPass.AutoSize = true;
-            lbPass.Font = new Font("Arial Rounded MT Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            lbPass.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             lbPass.ForeColor = Color.FromArgb(126, 99, 99);
-            lbPass.Location = new Point(503, 297);
+            lbPass.Location = new Point(440, 249);
             lbPass.Name = "lbPass";
-            lbPass.Size = new Size(100, 22);
+            lbPass.Size = new Size(75, 18);
             lbPass.TabIndex = 5;
             lbPass.Text = "Password";
             // 
             // ckbShowPass
             // 
             ckbShowPass.AutoSize = true;
-            ckbShowPass.Font = new Font("Arial Rounded MT Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            ckbShowPass.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             ckbShowPass.ForeColor = Color.FromArgb(126, 99, 99);
-            ckbShowPass.Location = new Point(503, 401);
-            ckbShowPass.Margin = new Padding(3, 4, 3, 4);
+            ckbShowPass.Location = new Point(440, 322);
             ckbShowPass.Name = "ckbShowPass";
-            ckbShowPass.Size = new Size(177, 26);
+            ckbShowPass.Size = new Size(136, 22);
             ckbShowPass.TabIndex = 7;
             ckbShowPass.Text = "Show Password";
             ckbShowPass.UseVisualStyleBackColor = true;
@@ -125,12 +121,11 @@
             // 
             btnLogin.BackColor = Color.FromArgb(242, 239, 229);
             btnLogin.FlatStyle = FlatStyle.Flat;
-            btnLogin.Font = new Font("Arial Rounded MT Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnLogin.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnLogin.ForeColor = Color.FromArgb(126, 99, 99);
-            btnLogin.Location = new Point(625, 461);
-            btnLogin.Margin = new Padding(3, 4, 3, 4);
+            btnLogin.Location = new Point(536, 396);
             btnLogin.Name = "btnLogin";
-            btnLogin.Size = new Size(126, 56);
+            btnLogin.Size = new Size(110, 42);
             btnLogin.TabIndex = 8;
             btnLogin.Text = "Login";
             btnLogin.UseVisualStyleBackColor = false;
@@ -143,21 +138,19 @@
             panel1.Controls.Add(pictureBox1);
             panel1.Dock = DockStyle.Left;
             panel1.Location = new Point(0, 0);
-            panel1.Margin = new Padding(3, 4, 3, 4);
             panel1.Name = "panel1";
-            panel1.Size = new Size(457, 667);
+            panel1.Size = new Size(400, 513);
             panel1.TabIndex = 9;
             // 
             // btnSignUp
             // 
             btnSignUp.BackColor = Color.FromArgb(242, 239, 229);
             btnSignUp.FlatStyle = FlatStyle.Flat;
-            btnSignUp.Font = new Font("Arial Rounded MT Bold", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnSignUp.Font = new Font("Microsoft Sans Serif", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btnSignUp.ForeColor = Color.FromArgb(126, 99, 99);
-            btnSignUp.Location = new Point(119, 569);
-            btnSignUp.Margin = new Padding(3, 4, 3, 4);
+            btnSignUp.Location = new Point(103, 444);
             btnSignUp.Name = "btnSignUp";
-            btnSignUp.Size = new Size(219, 56);
+            btnSignUp.Size = new Size(192, 42);
             btnSignUp.TabIndex = 10;
             btnSignUp.Text = "Create An Account";
             btnSignUp.UseVisualStyleBackColor = false;
@@ -168,19 +161,18 @@
             pictureBox1.Dock = DockStyle.Left;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(0, 0);
-            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(457, 667);
+            pictureBox1.Size = new Size(400, 513);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 11;
             pictureBox1.TabStop = false;
             // 
             // Login
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(242, 239, 229);
-            ClientSize = new Size(914, 667);
+            ClientSize = new Size(794, 513);
             Controls.Add(panel1);
             Controls.Add(btnLogin);
             Controls.Add(ckbShowPass);
@@ -191,7 +183,6 @@
             Controls.Add(lbLogin);
             Controls.Add(btnExit);
             FormBorderStyle = FormBorderStyle.None;
-            Margin = new Padding(3, 4, 3, 4);
             Name = "Login";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "LoginForm";

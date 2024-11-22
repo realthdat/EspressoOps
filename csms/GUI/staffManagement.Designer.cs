@@ -147,7 +147,7 @@
             btnSave.Margin = new Padding(3, 2, 3, 2);
             btnSave.Name = "btnSave";
             btnSave.Size = new Size(96, 40);
-            btnSave.TabIndex = 24;
+            btnSave.TabIndex = 9;
             btnSave.Text = "SAVE";
             btnSave.UseVisualStyleBackColor = false;
             btnSave.Click += btnSave_Click;
@@ -205,14 +205,14 @@
             cbGender.Margin = new Padding(3, 2, 3, 2);
             cbGender.Name = "cbGender";
             cbGender.Size = new Size(97, 25);
-            cbGender.TabIndex = 26;
+            cbGender.TabIndex = 2;
             // 
             // btnUpload
             // 
             btnUpload.BackColor = Color.FromArgb(126, 99, 99);
             btnUpload.Font = new Font("Microsoft Sans Serif", 10F);
             btnUpload.ForeColor = Color.Transparent;
-            btnUpload.Location = new Point(166, 91);
+            btnUpload.Location = new Point(166, 117);
             btnUpload.Margin = new Padding(3, 2, 3, 2);
             btnUpload.Name = "btnUpload";
             btnUpload.Size = new Size(75, 28);
@@ -229,7 +229,7 @@
             cbRole.Margin = new Padding(3, 2, 3, 2);
             cbRole.Name = "cbRole";
             cbRole.Size = new Size(154, 25);
-            cbRole.TabIndex = 23;
+            cbRole.TabIndex = 5;
             // 
             // cbStatus
             // 
@@ -239,7 +239,7 @@
             cbStatus.Margin = new Padding(3, 2, 3, 2);
             cbStatus.Name = "cbStatus";
             cbStatus.Size = new Size(148, 25);
-            cbStatus.TabIndex = 22;
+            cbStatus.TabIndex = 6;
             // 
             // label10
             // 
@@ -258,7 +258,7 @@
             tbPassword.Margin = new Padding(3, 2, 3, 2);
             tbPassword.Name = "tbPassword";
             tbPassword.Size = new Size(149, 25);
-            tbPassword.TabIndex = 20;
+            tbPassword.TabIndex = 8;
             // 
             // tbUsername
             // 
@@ -267,7 +267,7 @@
             tbUsername.Margin = new Padding(3, 2, 3, 2);
             tbUsername.Name = "tbUsername";
             tbUsername.Size = new Size(157, 25);
-            tbUsername.TabIndex = 18;
+            tbUsername.TabIndex = 7;
             // 
             // label9
             // 
@@ -282,10 +282,10 @@
             // userIMG
             // 
             userIMG.BackColor = Color.White;
-            userIMG.Location = new Point(157, 0);
+            userIMG.Location = new Point(149, 0);
             userIMG.Margin = new Padding(3, 2, 3, 2);
             userIMG.Name = "userIMG";
-            userIMG.Size = new Size(93, 78);
+            userIMG.Size = new Size(109, 113);
             userIMG.SizeMode = PictureBoxSizeMode.StretchImage;
             userIMG.TabIndex = 17;
             userIMG.TabStop = false;
@@ -297,7 +297,7 @@
             tbFullname.Margin = new Padding(3, 2, 3, 2);
             tbFullname.Name = "tbFullname";
             tbFullname.Size = new Size(225, 25);
-            tbFullname.TabIndex = 3;
+            tbFullname.TabIndex = 1;
             // 
             // label8
             // 
@@ -335,7 +335,7 @@
             tbPhonenumber.Margin = new Padding(3, 2, 3, 2);
             tbPhonenumber.Name = "tbPhonenumber";
             tbPhonenumber.Size = new Size(324, 25);
-            tbPhonenumber.TabIndex = 9;
+            tbPhonenumber.TabIndex = 4;
             // 
             // label3
             // 
@@ -384,7 +384,7 @@
             dob.Margin = new Padding(3, 2, 3, 2);
             dob.Name = "dob";
             dob.Size = new Size(214, 25);
-            dob.TabIndex = 5;
+            dob.TabIndex = 3;
             // 
             // label6
             // 

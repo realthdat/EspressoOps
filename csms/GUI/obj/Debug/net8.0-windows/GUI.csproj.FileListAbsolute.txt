@@ -257,3 +257,4 @@ D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Eng
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\GUI\obj\Debug\net8.0-windows\GUI.pdb
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\GUI\obj\Debug\net8.0-windows\GUI.genruntimeconfig.cache
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\GUI\obj\Debug\net8.0-windows\ref\GUI.dll
+D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\GUI\obj\Debug\net8.0-windows\GUI.sourcelink.json

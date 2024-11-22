@@ -101,3 +101,4 @@ D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Eng
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\BUS\obj\Debug\net8.0\refint\BUS.dll
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\BUS\obj\Debug\net8.0\BUS.pdb
 D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\BUS\obj\Debug\net8.0\ref\BUS.dll
+D:\Software Engineering\Software-Enginering-Final-Project-TDTU-main\Software-Enginering-Final-Project-TDTU-main\csms\BUS\obj\Debug\net8.0\BUS.sourcelink.json

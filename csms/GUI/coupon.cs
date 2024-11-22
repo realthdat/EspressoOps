@@ -15,8 +15,9 @@ namespace GUI
     public partial class coupon : Form
     {
 
-        private string choosenProduct_ID = "";
-        private int dk = 0;
+        private string selectedProductID = ""; // ID sản phẩm được chọn
+        private int operationMode = 0; // 1: Add, 2: Edit
+
         public coupon()
         {
             InitializeComponent();
@@ -67,17 +68,14 @@ namespace GUI
             BUS_coupon c = new BUS_coupon("", "", 0);
             grdCoupon.DataSource = c.selectQuery();
 
-
-
         }
-
 
         private void grdProd_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             clearField();
             btnAdd.Enabled = true;
             tbName.Text = grdProd.CurrentRow.Cells[1].Value.ToString();
-            choosenProduct_ID = grdProd.CurrentRow.Cells[0].Value.ToString();
+            selectedProductID = grdProd.CurrentRow.Cells[0].Value.ToString();
         }
         private void grdCoupon_CellClick(object sender, DataGridViewCellEventArgs e)
         {
@@ -102,7 +100,7 @@ namespace GUI
             tbDiscount.Enabled = true;
             BUS_coupon c = new BUS_coupon("", "", 0);
             tbID.Text = c.auto_generateProdID();
-            dk = 1;
+            operationMode = 1;
         }
 
         private void btnEdit_Click(object sender, EventArgs e)
@@ -117,7 +115,7 @@ namespace GUI
             btnSave.Enabled = true;
             tbDiscount.Focus();
             tbDiscount.Enabled = true;
-            dk = 2;
+            operationMode = 2;
         }
 
         private void btnDel_Click(object sender, EventArgs e)
@@ -135,59 +133,49 @@ namespace GUI
         private void btnSave_Click(object sender, EventArgs e)
         {
 
-            BUS_coupon c = new BUS_coupon("", "", 0);
-            BUS_product b = new BUS_product("", "", "", "0", "", "");
+            if (!ValidateFields()) return;
 
-            string id = tbID.Text;
-            string prodID = b.getProdID_by_prodName(tbName.Text);
-            int discount = int.Parse(tbDiscount.Text);
-            if (discount > 100)
-            {
-                MessageBox.Show("Discount must less than 100%", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                tbDiscount.Text = "";
-                tbDiscount.Focus();
-                return;
+            var couponBUS = new BUS_coupon(tbID.Text, selectedProductID, int.Parse(tbDiscount.Text));
 
-            }
-
-            if (c.isCouponExist(prodID).Rows.Count > 0)
+            if (operationMode == 1) // Thêm mới
             {
-                MessageBox.Show("This product has coupon already!", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                tbDiscount.Text = "";
-                tbID.Text = "";
-                tbName.Text = "";
-                refreshData();
-                return;
-            }
-            if (tbDiscount.Text == "")
-            {
-                MessageBox.Show("Discount percentage fields are required to be filled.", "Error Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            else
-            {
-                if (dk == 1)
+                if (couponBUS.isCouponExist(selectedProductID).Rows.Count > 0)
                 {
-                    //add
-                    BUS_coupon add = new BUS_coupon(id, prodID, discount);
-                    add.addQuery();
-                    MessageBox.Show("Added Successfully!", "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
+                    MessageBox.Show("This product already has a coupon!", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    return;
                 }
-                else if (dk == 2)
-                {
 
-                    //update product 
-                    BUS_coupon update = new BUS_coupon(id, prodID, discount);
-                    update.updateQuery();
-                    MessageBox.Show("Update Successfully!", "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
-
-                }
+                couponBUS.addQuery();
+                MessageBox.Show("Added successfully!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
-            refreshGRD();
+            else if (operationMode == 2) // Cập nhật
+            {
+                couponBUS.updateQuery();
+                MessageBox.Show("Updated successfully!", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
 
-            dk = 0;
+            refreshData();
         }
 
+
+        private bool ValidateFields()
+        {
+            if (string.IsNullOrWhiteSpace(tbDiscount.Text))
+            {
+                MessageBox.Show("Discount percentage is required.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                tbDiscount.Focus();
+                return false;
+            }
+
+            if (!int.TryParse(tbDiscount.Text, out int discount) || discount <= 0 || discount > 100)
+            {
+                MessageBox.Show("Discount must be between 1% and 100%.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                tbDiscount.Focus();
+                return false;
+            }
+
+            return true;
+        }
 
         private void SearchCbType_SelectedIndexChanged(object sender, EventArgs e)
         {

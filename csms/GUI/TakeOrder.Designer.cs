@@ -106,7 +106,7 @@
             // 
             // btnCancel
             // 
-            btnCancel.Location = new Point(229, 430);
+            btnCancel.Location = new Point(228, 452);
             btnCancel.Margin = new Padding(3, 2, 3, 2);
             btnCancel.Name = "btnCancel";
             btnCancel.Size = new Size(95, 33);
@@ -117,10 +117,11 @@
             // 
             // tbMem
             // 
+            tbMem.Font = new Font("Segoe UI", 10F);
             tbMem.Location = new Point(653, 392);
             tbMem.Margin = new Padding(3, 2, 3, 2);
             tbMem.Name = "tbMem";
-            tbMem.Size = new Size(190, 23);
+            tbMem.Size = new Size(189, 25);
             tbMem.TabIndex = 55;
             // 
             // panel_totalMoney
@@ -156,7 +157,7 @@
             // 
             // btnCreate_order
             // 
-            btnCreate_order.Location = new Point(449, 430);
+            btnCreate_order.Location = new Point(449, 452);
             btnCreate_order.Margin = new Padding(3, 2, 3, 2);
             btnCreate_order.Name = "btnCreate_order";
             btnCreate_order.Size = new Size(145, 46);
@@ -168,7 +169,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(848, 377);
+            label7.Location = new Point(846, 374);
             label7.Name = "label7";
             label7.Size = new Size(54, 15);
             label7.TabIndex = 54;
@@ -176,10 +177,11 @@
             // 
             // tbDiscount
             // 
+            tbDiscount.Font = new Font("Segoe UI", 10F);
             tbDiscount.Location = new Point(848, 392);
             tbDiscount.Margin = new Padding(3, 2, 3, 2);
             tbDiscount.Name = "tbDiscount";
-            tbDiscount.Size = new Size(70, 23);
+            tbDiscount.Size = new Size(70, 25);
             tbDiscount.TabIndex = 53;
             // 
             // gbSearch
@@ -191,7 +193,7 @@
             gbSearch.Controls.Add(label9);
             gbSearch.Controls.Add(SearchTbName);
             gbSearch.Font = new Font("Microsoft Sans Serif", 9F);
-            gbSearch.Location = new Point(10, 44);
+            gbSearch.Location = new Point(10, 60);
             gbSearch.Margin = new Padding(3, 2, 3, 2);
             gbSearch.Name = "gbSearch";
             gbSearch.Padding = new Padding(3, 2, 3, 2);
@@ -202,10 +204,11 @@
             // 
             // btnShowAll
             // 
+            btnShowAll.Font = new Font("Microsoft Sans Serif", 10F);
             btnShowAll.Location = new Point(497, 16);
             btnShowAll.Margin = new Padding(3, 2, 3, 2);
             btnShowAll.Name = "btnShowAll";
-            btnShowAll.Size = new Size(82, 22);
+            btnShowAll.Size = new Size(81, 26);
             btnShowAll.TabIndex = 50;
             btnShowAll.Text = "Show all";
             btnShowAll.UseVisualStyleBackColor = true;
@@ -222,11 +225,12 @@
             // 
             // SearchCbType
             // 
+            SearchCbType.Font = new Font("Microsoft Sans Serif", 10F);
             SearchCbType.FormattingEnabled = true;
             SearchCbType.Location = new Point(339, 18);
             SearchCbType.Margin = new Padding(3, 2, 3, 2);
             SearchCbType.Name = "SearchCbType";
-            SearchCbType.Size = new Size(154, 23);
+            SearchCbType.Size = new Size(154, 24);
             SearchCbType.TabIndex = 43;
             SearchCbType.SelectedIndexChanged += SearchCbType_SelectedIndexChanged;
             // 
@@ -241,10 +245,11 @@
             // 
             // SearchTbName
             // 
+            SearchTbName.Font = new Font("Microsoft Sans Serif", 10F);
             SearchTbName.Location = new Point(58, 18);
             SearchTbName.Margin = new Padding(3, 2, 3, 2);
             SearchTbName.Name = "SearchTbName";
-            SearchTbName.Size = new Size(233, 21);
+            SearchTbName.Size = new Size(233, 23);
             SearchTbName.TabIndex = 43;
             SearchTbName.KeyDown += SearchTbName_KeyDown;
             // 
@@ -272,7 +277,7 @@
             // 
             label14.AutoSize = true;
             label14.Font = new Font("Microsoft Sans Serif", 9F);
-            label14.Location = new Point(653, 377);
+            label14.Location = new Point(654, 373);
             label14.Name = "label14";
             label14.Size = new Size(158, 15);
             label14.TabIndex = 49;
@@ -280,10 +285,10 @@
             // 
             // btnClear
             // 
-            btnClear.Location = new Point(737, 273);
+            btnClear.Location = new Point(735, 268);
             btnClear.Margin = new Padding(3, 2, 3, 2);
             btnClear.Name = "btnClear";
-            btnClear.Size = new Size(82, 22);
+            btnClear.Size = new Size(84, 27);
             btnClear.TabIndex = 29;
             btnClear.Text = "Clear";
             btnClear.UseVisualStyleBackColor = true;
@@ -291,16 +296,17 @@
             // 
             // cbPayment
             // 
+            cbPayment.Font = new Font("Segoe UI", 10F);
             cbPayment.FormattingEnabled = true;
             cbPayment.Location = new Point(654, 450);
             cbPayment.Margin = new Padding(3, 2, 3, 2);
             cbPayment.Name = "cbPayment";
-            cbPayment.Size = new Size(154, 23);
+            cbPayment.Size = new Size(154, 25);
             cbPayment.TabIndex = 33;
             // 
             // btnPDF
             // 
-            btnPDF.Location = new Point(119, 430);
+            btnPDF.Location = new Point(118, 452);
             btnPDF.Margin = new Padding(3, 2, 3, 2);
             btnPDF.Name = "btnPDF";
             btnPDF.Size = new Size(95, 33);
@@ -312,7 +318,7 @@
             // btnPay
             // 
             btnPay.BackColor = Color.FromArgb(126, 99, 99);
-            btnPay.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            btnPay.Font = new Font("Microsoft Sans Serif", 10F);
             btnPay.ForeColor = Color.Transparent;
             btnPay.Location = new Point(653, 498);
             btnPay.Margin = new Padding(3, 2, 3, 2);
@@ -325,10 +331,10 @@
             // 
             // btnDel
             // 
-            btnDel.Location = new Point(825, 273);
+            btnDel.Location = new Point(823, 268);
             btnDel.Margin = new Padding(3, 2, 3, 2);
             btnDel.Name = "btnDel";
-            btnDel.Size = new Size(82, 22);
+            btnDel.Size = new Size(84, 27);
             btnDel.TabIndex = 26;
             btnDel.Text = "Remove";
             btnDel.UseVisualStyleBackColor = true;
@@ -336,7 +342,7 @@
             // 
             // btnAdd
             // 
-            btnAdd.Location = new Point(9, 430);
+            btnAdd.Location = new Point(8, 452);
             btnAdd.Margin = new Padding(3, 2, 3, 2);
             btnAdd.Name = "btnAdd";
             btnAdd.Size = new Size(95, 33);
@@ -349,7 +355,7 @@
             // 
             grdProd.BackgroundColor = SystemColors.ButtonHighlight;
             grdProd.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            grdProd.Location = new Point(9, 98);
+            grdProd.Location = new Point(8, 120);
             grdProd.Margin = new Padding(3, 2, 3, 2);
             grdProd.Name = "grdProd";
             grdProd.RowHeadersWidth = 51;
@@ -369,7 +375,7 @@
             gbProd.Controls.Add(tbProdName);
             gbProd.Controls.Add(ProdIMG);
             gbProd.Font = new Font("Microsoft Sans Serif", 9F);
-            gbProd.Location = new Point(10, 246);
+            gbProd.Location = new Point(9, 268);
             gbProd.Margin = new Padding(3, 2, 3, 2);
             gbProd.Name = "gbProd";
             gbProd.Padding = new Padding(3, 2, 3, 2);
@@ -379,53 +385,59 @@
             // 
             // tbQuantity
             // 
+            tbQuantity.Font = new Font("Microsoft Sans Serif", 10F);
             tbQuantity.Location = new Point(13, 109);
             tbQuantity.Margin = new Padding(3, 2, 3, 2);
             tbQuantity.Name = "tbQuantity";
-            tbQuantity.Size = new Size(312, 21);
+            tbQuantity.Size = new Size(312, 23);
             tbQuantity.TabIndex = 59;
             // 
             // label6
             // 
             label6.AutoSize = true;
+            label6.Font = new Font("Microsoft Sans Serif", 10F);
             label6.Location = new Point(13, 90);
             label6.Name = "label6";
-            label6.Size = new Size(51, 15);
+            label6.Size = new Size(61, 17);
             label6.TabIndex = 58;
             label6.Text = "Quantity";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(210, 34);
+            label2.Font = new Font("Microsoft Sans Serif", 10F);
+            label2.Location = new Point(210, 32);
             label2.Name = "label2";
-            label2.Size = new Size(35, 15);
+            label2.Size = new Size(40, 17);
             label2.TabIndex = 56;
             label2.Text = "Price";
             // 
             // tbPrice
             // 
+            tbPrice.Font = new Font("Microsoft Sans Serif", 10F);
             tbPrice.Location = new Point(210, 51);
             tbPrice.Margin = new Padding(3, 2, 3, 2);
             tbPrice.Name = "tbPrice";
-            tbPrice.Size = new Size(115, 21);
+            tbPrice.Size = new Size(115, 23);
             tbPrice.TabIndex = 55;
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(13, 34);
+            label3.Font = new Font("Microsoft Sans Serif", 10F);
+            label3.Location = new Point(13, 32);
             label3.Name = "label3";
-            label3.Size = new Size(84, 15);
+            label3.Size = new Size(96, 17);
             label3.TabIndex = 29;
             label3.Text = "Product name";
             // 
             // tbProdName
             // 
+            tbProdName.Font = new Font("Microsoft Sans Serif", 10F);
             tbProdName.Location = new Point(13, 51);
             tbProdName.Margin = new Padding(3, 2, 3, 2);
             tbProdName.Name = "tbProdName";
-            tbProdName.Size = new Size(191, 21);
+            tbProdName.Size = new Size(191, 23);
             tbProdName.TabIndex = 28;
             // 
             // ProdIMG

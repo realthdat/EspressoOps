@@ -8,6 +8,8 @@ namespace GUI
         public Login()
         {
             InitializeComponent();
+
+            tbPass.UseSystemPasswordChar = true;
         }
 
       
@@ -56,7 +58,7 @@ namespace GUI
         // Helper methods to show appropriate forms based on role
         private void ShowMainForm(string userRole, string username)
         {
-            if (userRole == "Manager")
+            if (userRole == "Manager" || userRole == "Admin")
             {
                 MainForm mainForm = new MainForm(username);
                 mainForm.Show();
@@ -78,7 +80,19 @@ namespace GUI
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            
+            DialogResult result = MessageBox.Show(
+                "Are you sure you want to exit the application?",
+                "Exit Confirmation",
+                MessageBoxButtons.YesNo,
+                MessageBoxIcon.Question
+            );
+
+            
+            if (result == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
         }
 
         private void btnSignUp_Click(object sender, EventArgs e)
@@ -90,7 +104,7 @@ namespace GUI
 
         private void ckbShowPass_CheckedChanged_1(object sender, EventArgs e)
         {
-            tbPass.PasswordChar = ckbShowPass.Checked ? '\0' : '*';
+            tbPass.UseSystemPasswordChar = !ckbShowPass.Checked;
         }
     }
 }
