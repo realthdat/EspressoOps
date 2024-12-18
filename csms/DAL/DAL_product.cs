@@ -76,6 +76,19 @@ namespace DAL
             return Connection.selectQuery(query, parameters);
         }
 
+        public DataTable searchByName(string prodName)
+        {
+            string query = "SELECT * FROM product WHERE prod_name LIKE @prodName";
+
+            // Tạo tham số để tránh SQL Injection
+            SqlParameter[] parameters = {
+        new SqlParameter("@prodName", SqlDbType.NVarChar) { Value = "%" + prodName + "%" }  // Thêm dấu "%" cho tìm kiếm chứa từ khóa
+    };
+
+            // Gọi Connection.selectQuery với câu lệnh SQL và các tham số
+            return Connection.selectQuery(query, parameters);
+        }
+
     }
 
 }

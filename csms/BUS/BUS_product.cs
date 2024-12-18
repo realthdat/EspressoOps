@@ -84,5 +84,10 @@ namespace BUS
             return p.getProdID_by_prodName(text);
         }
 
+        public DataTable searchByName(string prodName)
+        {
+            return p.searchByName(prodName);
+        }
+
     }
 }

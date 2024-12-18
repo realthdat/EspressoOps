@@ -64,6 +64,7 @@
             label1 = new Label();
             grdOrder = new DataGridView();
             backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            btnSearch = new PictureBox();
             mainboard.SuspendLayout();
             panel_totalMoney.SuspendLayout();
             gbSearch.SuspendLayout();
@@ -72,6 +73,7 @@
             ((System.ComponentModel.ISupportInitialize)tbQuantity).BeginInit();
             ((System.ComponentModel.ISupportInitialize)ProdIMG).BeginInit();
             ((System.ComponentModel.ISupportInitialize)grdOrder).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)btnSearch).BeginInit();
             SuspendLayout();
             // 
             // mainboard
@@ -187,6 +189,7 @@
             // gbSearch
             // 
             gbSearch.BackColor = Color.FromArgb(227, 225, 217);
+            gbSearch.Controls.Add(btnSearch);
             gbSearch.Controls.Add(btnShowAll);
             gbSearch.Controls.Add(label10);
             gbSearch.Controls.Add(SearchCbType);
@@ -200,7 +203,7 @@
             gbSearch.Size = new Size(584, 50);
             gbSearch.TabIndex = 32;
             gbSearch.TabStop = false;
-            gbSearch.Text = "Search";
+            gbSearch.Enter += gbSearch_Enter;
             // 
             // btnShowAll
             // 
@@ -249,7 +252,7 @@
             SearchTbName.Location = new Point(58, 18);
             SearchTbName.Margin = new Padding(3, 2, 3, 2);
             SearchTbName.Name = "SearchTbName";
-            SearchTbName.Size = new Size(233, 23);
+            SearchTbName.Size = new Size(197, 23);
             SearchTbName.TabIndex = 43;
             SearchTbName.KeyDown += SearchTbName_KeyDown;
             // 
@@ -474,6 +477,17 @@
             grdOrder.TabIndex = 30;
             grdOrder.CellClick += grdOrder_CellClick;
             // 
+            // btnSearch
+            // 
+            btnSearch.Image = Properties.Resources.search;
+            btnSearch.Location = new Point(261, 16);
+            btnSearch.Name = "btnSearch";
+            btnSearch.Size = new Size(29, 25);
+            btnSearch.SizeMode = PictureBoxSizeMode.Zoom;
+            btnSearch.TabIndex = 51;
+            btnSearch.TabStop = false;
+            btnSearch.Click += btnSearch_Click;
+            // 
             // takeOrder
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -497,6 +511,7 @@
             ((System.ComponentModel.ISupportInitialize)tbQuantity).EndInit();
             ((System.ComponentModel.ISupportInitialize)ProdIMG).EndInit();
             ((System.ComponentModel.ISupportInitialize)grdOrder).EndInit();
+            ((System.ComponentModel.ISupportInitialize)btnSearch).EndInit();
             ResumeLayout(false);
         }
 
@@ -546,5 +561,6 @@
         private Label label6;
         private TextBox tbMem;
         private Button btnCancel;
+        private PictureBox btnSearch;
     }
 }

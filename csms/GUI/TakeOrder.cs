@@ -405,5 +405,19 @@ namespace GUI
         {
 
         }
+
+        private void gbSearch_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSearch_Click(object sender, EventArgs e)
+        {
+            string name = SearchTbName.Text.Trim();
+
+            BUS_product p = new BUS_product("", "", "", "", "", "");
+            DataTable Products = p.searchByName(name);
+            grdProd.DataSource = Products;
+        }
     }
 }
