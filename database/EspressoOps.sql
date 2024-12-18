@@ -2,6 +2,8 @@ create database EspressoOps
 use EspressoOps
 --========================TABLE========================
 
+drop database EspressoOps
+
 --STAFF
 CREATE TABLE staff (
     staffid varchar(10) PRIMARY KEY,
@@ -87,16 +89,17 @@ CREATE TABLE order_dt(
 
 -- Insert data into STAFF table
 INSERT INTO staff (staffid, fullname, dob, role, gender, profile_image, phonenumber)
-VALUES ('ST001', 'John Doe', '2000-01-01', 'Manager', 'Male', '..\..\..\..\User_Directory\john.png', '+1234567890'),
-       ('ST002', 'Jane Smith', '2004-02-15', 'Cashier', 'Female', '..\..\..\..\User_Directory\jane.png', '+9876543210'),
-       ('ST003', 'David Lee', '2003-12-24', 'Manager', 'Male', '..\..\..\..\User_Directory\admin.png', '+0123456789'),
-	   ('ST004', 'Anna Browns', '2005-12-24', 'Waitress', 'Female', '..\..\..\..\User_Directory\.png', '+0123456689')
+VALUES ('ST001', 'Dat Nguyen', '2000-01-01', 'Admin', 'Male', '..\..\..\..\User_Directory\admin.png', '+1234567890'),
+       ('ST002', 'Jane Smith', '2004-02-15', 'Manager', 'Female', '..\..\..\..\User_Directory\jane.png', '+9876543210'),
+       ('ST003', 'John Doe', '2003-12-24', 'Cashier', 'Male', '..\..\..\..\User_Directory\john.png', '+0123456789'),
+	   ('ST004', 'Anna Browns', '2005-12-24', 'Cashier', 'Female', '..\..\..\..\User_Directory\.png', '+0123456689')
 
 -- Insert data into ACCOUNT table (linking to existing staff IDs)
 INSERT INTO account (username, password, status, staffid)
-VALUES ('john', '123456', 'Active', 'ST001'),
-       ('jane', '123456', 'Active', 'ST002'),
-       ('admin', 'admin', 'Active', 'ST003');
+VALUES ('DatDev', 'admin', 'Active', 'ST001'),
+	   ('jane', '123456', 'Active', 'ST002'),
+       ('john', '123456', 'Active', 'ST003'),
+       ('anna', '123456', 'Active', 'ST004');
 
 --insert data into product table
 INSERT INTO product (prod_id, prod_name, prod_type, prod_price, prod_status, prod_image)
