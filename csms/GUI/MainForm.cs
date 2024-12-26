@@ -83,6 +83,8 @@ namespace GUI
             {
                 aaUser.refreshData();
             }
+
+            ChangeButtonStyle(btnStaff);
         }
 
         private void btnDashboard_Click(object sender, EventArgs e)
@@ -96,6 +98,8 @@ namespace GUI
             {
                 db.refreshData();
             }
+
+            ChangeButtonStyle(btnDashboard);
         }
 
         private void btnProduct_Click(object sender, EventArgs e)
@@ -109,6 +113,8 @@ namespace GUI
             {
                 p.refreshData();
             }
+
+            ChangeButtonStyle(btnProduct);
         }
 
         private void MainForm_Load(object sender, EventArgs e)
@@ -127,6 +133,8 @@ namespace GUI
             {
                 mem.refreshData();
             }
+
+            ChangeButtonStyle(btnMembership);
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -140,6 +148,8 @@ namespace GUI
             {
                 mem.refreshData();
             }
+
+            ChangeButtonStyle(button1);
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -153,6 +163,25 @@ namespace GUI
             {
                 mem.refreshData();
             }
+
+            ChangeButtonStyle(button2);
+        }
+
+        private void ChangeButtonStyle(Button button)
+        {
+            // Đặt màu nền và màu chữ cho các nút khác về mặc định
+            foreach (Control ctrl in navbar.Controls) // controlBar là panel chứa các button
+            {
+                if (ctrl is Button btn && btn != button)
+                {
+                    btn.BackColor = Color.White; // Màu nền mặc định
+                    btn.ForeColor = Color.Black; // Màu chữ mặc định
+                }
+            }
+
+            // Thay đổi màu nền và màu chữ của nút đang nhấn
+            button.BackColor = Color.FromArgb(144, 238, 144);
+            button.ForeColor = Color.White; // Màu chữ trắng
         }
     }
 }

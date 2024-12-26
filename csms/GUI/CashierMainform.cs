@@ -26,7 +26,22 @@ namespace GUI
             displayUser();
         }
 
+        private void ChangeButtonStyle(Button button)
+        {
+            // Đặt màu nền và màu chữ cho các nút khác về mặc định
+            foreach (Control ctrl in navbar.Controls) // controlBar là panel chứa các button
+            {
+                if (ctrl is Button btn && btn != button)
+                {
+                    btn.BackColor = Color.White; // Màu nền mặc định
+                    btn.ForeColor = Color.Black; // Màu chữ mặc định
+                }
+            }
 
+            // Thay đổi màu nền và màu chữ của nút đang nhấn
+            button.BackColor = Color.FromArgb(144, 238, 144);
+            button.ForeColor = Color.White; // Màu chữ trắng
+        }
 
         private void displayUser()
         {
@@ -90,6 +105,8 @@ namespace GUI
 
         private void btnReceipt_Click(object sender, EventArgs e)
         {
+            ChangeButtonStyle(btnReceipt);
+
             receipt m = new receipt();
             ShowFormInPanel(m);
 
@@ -103,6 +120,7 @@ namespace GUI
 
         private void btnMem_Click(object sender, EventArgs e)
         {
+            ChangeButtonStyle(btnMem);
 
             membership m = new membership();
             ShowFormInPanel(m);
@@ -117,6 +135,8 @@ namespace GUI
 
         private void btnOrder_Click(object sender, EventArgs e)
         {
+            ChangeButtonStyle(btnOrder);
+
             takeOrder dashboardForm = new takeOrder(username);
             ShowFormInPanel(dashboardForm);
 

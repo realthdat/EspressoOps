@@ -3,24 +3,136 @@
   "WorkspaceRootPath": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dto\\dto_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F337B39F-B018-4F15-9C93-37521CC2F4F2}|DTO\\DTO.csproj|solutionrelative:dto\\dto_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\takeorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,36 +147,12 @@
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\productmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,48 +163,16 @@
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\staffmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\cashiermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\bus\\bus_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78BFC9EA-B4A3-4960-8C1E-DE2D3399A7AD}|BUS\\BUS.csproj|solutionrelative:bus\\bus_membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\gui\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBCA105E-FEBA-40A9-895E-620418D0F5C6}|GUI\\GUI.csproj|solutionrelative:gui\\membership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|d:\\software engineering\\software-enginering-final-project-tdtu-main\\software-enginering-final-project-tdtu-main\\csms\\dal\\dal_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{416FAE6E-772C-4D1C-A246-5182CFF52164}|DAL\\DAL.csproj|solutionrelative:dal\\dal_coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -126,7 +182,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -135,32 +191,402 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "receipt.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\receipt.cs",
-              "RelativeDocumentMoniker": "GUI\\receipt.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\receipt.cs",
-              "RelativeToolTip": "GUI\\receipt.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
+              "RelativeToolTip": "GUI\\MainForm.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAAK8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T13:11:04.359Z",
+              "WhenOpened": "2024-11-22T12:40:53.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\SignUp.cs",
-              "RelativeDocumentMoniker": "GUI\\SignUp.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\SignUp.cs",
-              "RelativeToolTip": "GUI\\SignUp.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEsAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "staffManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs",
+              "RelativeDocumentMoniker": "GUI\\staffManagement.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs [Design]",
+              "RelativeToolTip": "GUI\\staffManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T11:58:10.528Z",
+              "WhenOpened": "2024-11-22T05:57:47.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TakeOrder.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
+              "RelativeDocumentMoniker": "GUI\\TakeOrder.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs [Design]",
+              "RelativeToolTip": "GUI\\TakeOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:50.127Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierMainform.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
+              "RelativeDocumentMoniker": "GUI\\CashierMainform.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs [Design]",
+              "RelativeToolTip": "GUI\\CashierMainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:11.479Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coupon.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\coupon.cs",
+              "RelativeDocumentMoniker": "GUI\\coupon.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\coupon.cs [Design]",
+              "RelativeToolTip": "GUI\\coupon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:25.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CashierMainform.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
+              "RelativeDocumentMoniker": "GUI\\CashierMainform.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
+              "RelativeToolTip": "GUI\\CashierMainform.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAiwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:40:46.968Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs [Design]",
+              "RelativeToolTip": "GUI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:33.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Login.cs",
+              "RelativeDocumentMoniker": "GUI\\Login.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Login.cs [Design]",
+              "RelativeToolTip": "GUI\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:30.658Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dashboard.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\dashboard.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
+              "RelativeToolTip": "GUI\\dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T07:23:53.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
+              "RelativeDocumentMoniker": "GUI\\dashboard.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs [Design]",
+              "RelativeToolTip": "GUI\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:27.015Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BUS_receipt.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_receipt.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_receipt.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_receipt.cs",
+              "RelativeToolTip": "BUS\\BUS_receipt.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:40:33.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\Connection.cs",
+              "RelativeDocumentMoniker": "DAL\\Connection.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\Connection.cs",
+              "RelativeToolTip": "DAL\\Connection.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T05:57:59.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DTO_order.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_order.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_order.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_order.cs",
+              "RelativeToolTip": "DTO\\DTO_order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:21.693Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DAL_product.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_product.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_product.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_product.cs",
+              "RelativeToolTip": "DAL\\DAL_product.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:24:39.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:09:32.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAL_receipt.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_receipt.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_receipt.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_receipt.cs",
+              "RelativeToolTip": "DAL\\DAL_receipt.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAiwIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:45:54.684Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "DTO_receipt.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_receipt.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_receipt.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_receipt.cs",
+              "RelativeToolTip": "DTO\\DTO_receipt.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvw4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:30.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DTO_staff.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_staff.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_staff.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_staff.cs",
+              "RelativeToolTip": "DTO\\DTO_staff.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:34.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DTO_membership.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_membership.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_membership.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_membership.cs",
+              "RelativeToolTip": "DTO\\DTO_membership.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:16.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DTO_product.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_product.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_product.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_product.cs",
+              "RelativeToolTip": "DTO\\DTO_product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:25.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTO_coupon.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_coupon.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_coupon.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_coupon.cs",
+              "RelativeToolTip": "DTO\\DTO_coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DTO_account.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_account.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_account.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DTO\\DTO_account.cs",
+              "RelativeToolTip": "DTO\\DTO_account.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:47:07.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DAL_staff.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_staff.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_staff.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_staff.cs",
+              "RelativeToolTip": "DAL\\DAL_staff.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:46:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DAL_membership.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_membership.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_membership.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_membership.cs",
+              "RelativeToolTip": "DAL\\DAL_membership.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:45:39.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BUS_STAFF.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_STAFF.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_STAFF.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_STAFF.cs",
+              "RelativeToolTip": "BUS\\BUS_STAFF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:40:38.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BUS_product.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_product.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_product.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_product.cs",
+              "RelativeToolTip": "BUS\\BUS_product.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:24:08.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DAL_account.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_account.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_account.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_account.cs",
+              "RelativeToolTip": "DAL\\DAL_account.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAowGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:20:42.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DAL_order.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_order.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_order.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_order.cs",
+              "RelativeToolTip": "DAL\\DAL_order.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T12:22:33.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BUS_coupon.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_coupon.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_coupon.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_coupon.cs",
+              "RelativeToolTip": "BUS\\BUS_coupon.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:39:30.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BUS_account.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_account.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_account.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_account.cs",
+              "RelativeToolTip": "BUS\\BUS_account.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T03:39:20.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DAL_coupon.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_coupon.cs",
+              "RelativeDocumentMoniker": "DAL\\DAL_coupon.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_coupon.cs",
+              "RelativeToolTip": "DAL\\DAL_coupon.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAwwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:25:25.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TakeOrder.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
+              "RelativeDocumentMoniker": "GUI\\TakeOrder.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
+              "RelativeToolTip": "GUI\\TakeOrder.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAMwJ4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:08:11.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
               "Title": "Login.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Login.cs",
               "RelativeDocumentMoniker": "GUI\\Login.cs",
@@ -173,133 +599,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Program.cs",
-              "RelativeDocumentMoniker": "GUI\\Program.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Program.cs",
-              "RelativeToolTip": "GUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 39,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\SignUp.cs",
+              "RelativeDocumentMoniker": "GUI\\SignUp.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\SignUp.cs",
+              "RelativeToolTip": "GUI\\SignUp.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAA0wEsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:09:32.699Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "dashboard.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
-              "RelativeDocumentMoniker": "GUI\\dashboard.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs [Design]",
-              "RelativeToolTip": "GUI\\dashboard.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:27.015Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TakeOrder.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
-              "RelativeDocumentMoniker": "GUI\\TakeOrder.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs [Design]",
-              "RelativeToolTip": "GUI\\TakeOrder.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:50.127Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TakeOrder.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
-              "RelativeDocumentMoniker": "GUI\\TakeOrder.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\TakeOrder.cs",
-              "RelativeToolTip": "GUI\\TakeOrder.cs",
-              "ViewState": "AgIAAIoBAAAAAAAAAAAEwKQBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:08:11.004Z",
+              "WhenOpened": "2024-11-22T11:58:10.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BUS_product.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_product.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_product.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_product.cs*",
-              "RelativeToolTip": "BUS\\BUS_product.cs*",
-              "ViewState": "AgIAAD0AAAAAAAAAAAA1wFgAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 29,
+              "Title": "BUS_membership.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_membership.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_membership.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_membership.cs",
+              "RelativeToolTip": "BUS\\BUS_membership.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:24:08.65Z",
+              "WhenOpened": "2024-11-22T07:03:40.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "receipt.cs",
+              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\receipt.cs",
+              "RelativeDocumentMoniker": "GUI\\receipt.cs",
+              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\receipt.cs",
+              "RelativeToolTip": "GUI\\receipt.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T13:11:04.359Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DAL_product.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_product.cs",
-              "RelativeDocumentMoniker": "DAL\\DAL_product.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_product.cs",
-              "RelativeToolTip": "DAL\\DAL_product.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:24:39.307Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 40,
               "Title": "staffManagement.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs",
               "RelativeDocumentMoniker": "GUI\\staffManagement.cs",
               "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs",
               "RelativeToolTip": "GUI\\staffManagement.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T13:10:00.299Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Connection.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\Connection.cs",
-              "RelativeDocumentMoniker": "DAL\\Connection.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\Connection.cs",
-              "RelativeToolTip": "DAL\\Connection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:59.613Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
-              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
-              "RelativeToolTip": "GUI\\MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:40:53.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CashierMainform.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
-              "RelativeDocumentMoniker": "GUI\\CashierMainform.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
-              "RelativeToolTip": "GUI\\CashierMainform.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAD4v0EAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:40:46.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 41,
               "Title": "coupon.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\coupon.cs",
               "RelativeDocumentMoniker": "GUI\\coupon.cs",
@@ -312,44 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "DAL_account.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_account.cs",
-              "RelativeDocumentMoniker": "DAL\\DAL_account.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_account.cs",
-              "RelativeToolTip": "DAL\\DAL_account.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:20:42.626Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "DAL_order.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_order.cs",
-              "RelativeDocumentMoniker": "DAL\\DAL_order.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_order.cs",
-              "RelativeToolTip": "DAL\\DAL_order.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T12:22:33.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "dashboard.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
-              "RelativeDocumentMoniker": "GUI\\dashboard.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\dashboard.cs",
-              "RelativeToolTip": "GUI\\dashboard.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAIwF4AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:23:53.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "membership.cs",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\membership.cs",
               "RelativeDocumentMoniker": "GUI\\membership.cs",
@@ -362,61 +676,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BUS_membership.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_membership.cs",
-              "RelativeDocumentMoniker": "BUS\\BUS_membership.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS_membership.cs",
-              "RelativeToolTip": "BUS\\BUS_membership.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAvwFIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T07:03:40.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "DAL_coupon.cs",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_coupon.cs",
-              "RelativeDocumentMoniker": "DAL\\DAL_coupon.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\DAL\\DAL_coupon.cs",
-              "RelativeToolTip": "DAL\\DAL_coupon.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAADwv1oAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T06:25:25.38Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Login.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Login.cs",
-              "RelativeDocumentMoniker": "GUI\\Login.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\Login.cs [Design]",
-              "RelativeToolTip": "GUI\\Login.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:30.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "staffManagement.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs",
-              "RelativeDocumentMoniker": "GUI\\staffManagement.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\staffManagement.cs [Design]",
-              "RelativeToolTip": "GUI\\staffManagement.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:47.624Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 35,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\SignUp.cs",
               "RelativeDocumentMoniker": "GUI\\SignUp.cs",
@@ -427,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 34,
               "Title": "receipt.cs [Design]",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\receipt.cs",
               "RelativeDocumentMoniker": "GUI\\receipt.cs",
@@ -438,7 +698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
               "Title": "membership.cs [Design]",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\membership.cs",
               "RelativeDocumentMoniker": "GUI\\membership.cs",
@@ -449,7 +709,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 36,
               "Title": "productManagement.cs [Design]",
               "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\productManagement.cs",
               "RelativeDocumentMoniker": "GUI\\productManagement.cs",
@@ -457,39 +717,6 @@
               "RelativeToolTip": "GUI\\productManagement.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T05:57:35.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs",
-              "RelativeDocumentMoniker": "GUI\\MainForm.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\MainForm.cs [Design]",
-              "RelativeToolTip": "GUI\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:33.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "coupon.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\coupon.cs",
-              "RelativeDocumentMoniker": "GUI\\coupon.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\coupon.cs [Design]",
-              "RelativeToolTip": "GUI\\coupon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:25.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CashierMainform.cs [Design]",
-              "DocumentMoniker": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs",
-              "RelativeDocumentMoniker": "GUI\\CashierMainform.cs",
-              "ToolTip": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\GUI\\CashierMainform.cs [Design]",
-              "RelativeToolTip": "GUI\\CashierMainform.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T05:57:11.479Z"
             }
           ]
         }
