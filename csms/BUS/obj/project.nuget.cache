@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BGYHjoVYJ80=",
+  "dgSpecHash": "CJ6UoljQoDc=",
   "success": true,
-  "projectFilePath": "D:\\Software Engineering\\Software-Enginering-Final-Project-TDTU-main\\Software-Enginering-Final-Project-TDTU-main\\csms\\BUS\\BUS.csproj",
+  "projectFilePath": "D:\\EspressoOps\\EspressoOps\\csms\\BUS\\BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thanh\\.nuget\\packages\\fastreport.compat\\2025.1.10\\fastreport.compat.2025.1.10.nupkg.sha512",
     "C:\\Users\\thanh\\.nuget\\packages\\fastreport.datavisualization\\2025.1.10\\fastreport.datavisualization.2025.1.10.nupkg.sha512",
